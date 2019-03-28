@@ -1,0 +1,23 @@
+﻿  dll_main.cpp
+c:\users\dopamine\desktop\ff\khaleesi sdk\dll_main.cpp(45): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  logs.cpp
+c1xx : fatal error C1083: Cannot open source file: 'features\miscellaneous\logs.cpp': No such file or directory
+  anti_aim.cpp
+c1xx : fatal error C1083: Cannot open source file: 'features\ragebot\anti_aim.cpp': No such file or directory
+  resolver.cpp
+c1xx : fatal error C1083: Cannot open source file: 'features\ragebot\resolver.cpp': No such file or directory
+  grenade_prediction.cpp
+c1xx : fatal error C1083: Cannot open source file: 'features\visuals\grenade_prediction.cpp': No such file or directory
+  hooks.cpp
+c:\users\dopamine\desktop\ff\khaleesi sdk\hooks\hooks.cpp(99): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  interfaces.cpp
+c:\users\dopamine\desktop\ff\khaleesi sdk\interfaces\interfaces.cpp(48): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  menu.cpp
+c:\users\dopamine\desktop\ff\khaleesi sdk\ui\menu.cpp(6): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  globals.cpp
+c:\users\dopamine\desktop\ff\khaleesi sdk\utilities\globals.cpp(7): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  netvar_manager.cpp
+c1xx : fatal error C1083: Cannot open source file: 'utilities\netvar_manager.cpp': No such file or directory
+  vector.cpp
+c:\users\dopamine\desktop\ff\khaleesi sdk\utilities\vector.cpp(105): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
